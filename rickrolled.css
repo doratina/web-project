@@ -1,0 +1,37 @@
+ul {
+    display: inline-flex;
+}
+
+li{
+    margin: 15px;
+    margin-bottom: auto;
+
+}
+
+video{
+    width: 300px;
+    height: 300px;
+}
+
+html {
+    background: url(img.jpg);
+    font-family: sans-serif;
+}
+
+a:visited {
+    color: lawngreen;
+}
+
+a:focus {
+    color: lightblue
+}
+
+p{;
+    border: 2px dotted lightblue;
+    color: lightblue;
+    width: 225px;
+    margin: 0 auto;
+    border-radius: 15px;
+    font-size: 2cm;
+}
+ 

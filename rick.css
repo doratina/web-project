@@ -1,0 +1,53 @@
+p {
+ color: green
+}
+
+los {
+    align-content: center;
+}
+
+html {
+    background: url(img.jpg);
+    font-family: 'Open Sans', sans-serif;
+}
+
+a {
+    color: pink;
+}
+
+a:visited {
+    color: yellow;
+}
+
+a:focus {
+    color: azure;
+}
+
+loop {
+    align-content: center;
+}
+
+#win {
+    color: darkgray;
+
+}
+
+
+p {
+    color:gold
+}
+
+
+ul {
+   display: inline-flex
+   width: 100%
+}
+
+video {
+    width: 500px;
+    height: 500px;
+}
+
+audio{
+    margin-left: 14cm;
+}
